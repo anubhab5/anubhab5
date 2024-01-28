@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anubhab Mukherjee</h1>
-<h3 align="center">I am a software developer based in India, engaging in full-stack development with a primary emphasis on the frontend aspect. I have a strong passion for exploring and adopting new technologies, always eager to expand my skill set in the ever-evolving landscape of software development.</h3>
+<p align="center">I am a software developer based in India, engaging in full-stack development with a primary emphasis on the frontend aspect. I have a strong passion for exploring and adopting new technologies, always eager to expand my skill set in the ever-evolving landscape of software development.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhab5&label=Profile%20views&color=0e75b6&style=flat" alt="anubhab5" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhab5" alt="anubhab5" /></a> </p>
 
 - 🌱 I’m currently learning **C++**
